@@ -10,6 +10,7 @@ Pod::Spec.new do |spec|
   spec.author             = { "martosdk" => "jeden.huang@tec-do.com" }
   spec.source       = { :git => "https://github.com/martosdk/MartoSDK-iOS.git", :tag => spec.version.to_s }
   spec.platform     = :ios, '13.0'
+  spec.swift_version = '5.0'
   spec.ios.deployment_target = '13.0'
   spec.pod_target_xcconfig = {
     'OTHER_LDFLAGS' => '-ObjC'
