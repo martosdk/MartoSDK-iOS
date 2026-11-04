@@ -1,0 +1,4 @@
+framework module MartoSDK {
+  header "MartoSDK-Swift.h"
+  requires objc
+}
