@@ -4,6 +4,7 @@
 // swift-module-flags-ignorable: -no-verify-emitted-module-interface -formal-cxx-interoperability-mode=off -interface-compiler-version 6.2.4
 import CryptoKit
 import Foundation
+@_exported import MartoSDK
 import Swift
 import _Concurrency
 import _StringProcessing

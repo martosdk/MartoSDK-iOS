@@ -1,4 +1,11 @@
 framework module MartoSDK {
+  umbrella header "MartoSDK.h"
+  export *
+
+  module * { export * }
+}
+
+module MartoSDK.Swift {
   header "MartoSDK-Swift.h"
   requires objc
 }

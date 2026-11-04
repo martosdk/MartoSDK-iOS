@@ -36,6 +36,10 @@
 		<data>
 		g2A2Hjqob9gvc4pcRhHBWFEYALo=
 		</data>
+		<key>Headers/MartoSDK.h</key>
+		<data>
+		/83EHGHRq7pc9ZG5DU98DcG2BOw=
+		</data>
 		<key>Info.plist</key>
 		<data>
 		XA/wlQS+UKB1kHz01rlo+Firfrw=
@@ -54,7 +58,7 @@
 		</data>
 		<key>Modules/MartoSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		PdjgOIf7/CHhuEkb6DQt4uX+W0A=
+		0xooE90Z7Y0ORKXkC7q0E/etA00=
 		</data>
 		<key>Modules/MartoSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -62,11 +66,11 @@
 		</data>
 		<key>Modules/MartoSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		PdjgOIf7/CHhuEkb6DQt4uX+W0A=
+		0xooE90Z7Y0ORKXkC7q0E/etA00=
 		</data>
 		<key>Modules/MartoSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		fLZG3aLaLub+FoWDmb904/W7rKg=
+		alZUhuNmRzTyXLaH7kN48vQfh/M=
 		</data>
 		<key>Modules/MartoSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -74,7 +78,7 @@
 		</data>
 		<key>Modules/MartoSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		CJVDgON6FBdxVLzEXXgxk1CwNsI=
+		r5PzEg3qrAmk9nTjI1zWdenIkHo=
 		</data>
 		<key>Modules/MartoSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -82,15 +86,15 @@
 		</data>
 		<key>Modules/MartoSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		CJVDgON6FBdxVLzEXXgxk1CwNsI=
+		r5PzEg3qrAmk9nTjI1zWdenIkHo=
 		</data>
 		<key>Modules/MartoSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		/L5fgfXkX6AZKGHWED+WtlPYKCg=
+		FHscfMIDEqHNvOn1V48MJLtdxpA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		7OioSGr1SqmkiH/3STiilHXemIQ=
+		stDDCqXdvHwUjwDO3z+pX1NJP3c=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -183,6 +187,17 @@
 			rCh79NCL+24J7f8DQl6myGlCbne6qKs6oNe90YmPT0w=
 			</data>
 		</dict>
+		<key>Headers/MartoSDK.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			/83EHGHRq7pc9ZG5DU98DcG2BOw=
+			</data>
+			<key>hash2</key>
+			<data>
+			Z80oYgasTX1apqVJe07Qk4ubivWS0tbD60ZaPyxSows=
+			</data>
+		</dict>
 		<key>Modules/MartoSDK.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
@@ -220,11 +235,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			PdjgOIf7/CHhuEkb6DQt4uX+W0A=
+			0xooE90Z7Y0ORKXkC7q0E/etA00=
 			</data>
 			<key>hash2</key>
 			<data>
-			MB3Plxchzcr/j17i0/Z6eELyXVaUubsbEgzKFNCPZts=
+			QSluwD29uFdcT3yY2Pqio5AyTPQZzzUtS2QJwUCo5lo=
 			</data>
 		</dict>
 		<key>Modules/MartoSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -242,22 +257,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			PdjgOIf7/CHhuEkb6DQt4uX+W0A=
+			0xooE90Z7Y0ORKXkC7q0E/etA00=
 			</data>
 			<key>hash2</key>
 			<data>
-			MB3Plxchzcr/j17i0/Z6eELyXVaUubsbEgzKFNCPZts=
+			QSluwD29uFdcT3yY2Pqio5AyTPQZzzUtS2QJwUCo5lo=
 			</data>
 		</dict>
 		<key>Modules/MartoSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			fLZG3aLaLub+FoWDmb904/W7rKg=
+			alZUhuNmRzTyXLaH7kN48vQfh/M=
 			</data>
 			<key>hash2</key>
 			<data>
-			mcH5w6PhjNHZhXPNJdEBn/WF3tGWQB6U9E/cTvgCxaA=
+			gY3u9r9uySrbtWC4rg7TvFBZfTyzRsIKVlIbZNP+lGE=
 			</data>
 		</dict>
 		<key>Modules/MartoSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -275,11 +290,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			CJVDgON6FBdxVLzEXXgxk1CwNsI=
+			r5PzEg3qrAmk9nTjI1zWdenIkHo=
 			</data>
 			<key>hash2</key>
 			<data>
-			4kvTHQT1Aw0egWDkRa6ip4/DJ3ASVtr5cAHC7tu18Uo=
+			TSHQfjGDTsulY374a0PqU9UmUdT+20O9McCGbqqzlxY=
 			</data>
 		</dict>
 		<key>Modules/MartoSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -297,33 +312,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			CJVDgON6FBdxVLzEXXgxk1CwNsI=
+			r5PzEg3qrAmk9nTjI1zWdenIkHo=
 			</data>
 			<key>hash2</key>
 			<data>
-			4kvTHQT1Aw0egWDkRa6ip4/DJ3ASVtr5cAHC7tu18Uo=
+			TSHQfjGDTsulY374a0PqU9UmUdT+20O9McCGbqqzlxY=
 			</data>
 		</dict>
 		<key>Modules/MartoSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			/L5fgfXkX6AZKGHWED+WtlPYKCg=
+			FHscfMIDEqHNvOn1V48MJLtdxpA=
 			</data>
 			<key>hash2</key>
 			<data>
-			7Ig+jWIALm+4ytGEbn4G4p6/lHkZ4iPmaB5oKOmd1XQ=
+			gwljDZQ+RI8cEC3BisIXdbgcWaVW2hv0AIhf1OCuvJQ=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			7OioSGr1SqmkiH/3STiilHXemIQ=
+			stDDCqXdvHwUjwDO3z+pX1NJP3c=
 			</data>
 			<key>hash2</key>
 			<data>
-			cq+UxQRom+XsdjzghAJVflaHovYQNCE3L0zGm/07dW8=
+			WA1mcYhqFc6OCGDZ/ZfCr3f3iKS/5LxzyiaiG5G+JTQ=
 			</data>
 		</dict>
 	</dict>
